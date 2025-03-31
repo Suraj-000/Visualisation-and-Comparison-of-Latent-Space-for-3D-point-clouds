@@ -9,3 +9,6 @@
   * Standard deviation operation
 * Visualising latent space using PCA.
 * Visualising critical points.
+
+
+<img width="1166" alt="Image" src="https://github.com/user-attachments/assets/5e560944-4c11-4789-9f4a-3309501071fb" />
